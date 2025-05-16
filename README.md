@@ -60,3 +60,4 @@ Custom gields I use and you would need to set in order to make this work for you
         {'hostname': 'router1', 'address': '192.168.1.1', 'serial_number': '123456789'}
     ```
 - If you are having some problems running this script let me know and I'll see if I can fix it.
+- You likely will want to use this in a docker container, dev container or a virtual environment. Showing you how to set that up is outside the scope of this repo.
